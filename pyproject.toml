@@ -1,9 +1,10 @@
 [tool.poetry]
-name = "pygame-qt"
+name = "pygame_qt"
 version = "0.1.0"
 description = ""
 authors = ["Violet Eldridge <github@violet-mica.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
